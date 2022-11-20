@@ -1,0 +1,3 @@
+ UMF = Ulta Mega Fine = Beste Messung
+ UF = Ultra Fine = Gute Messung
+ 4_4_1_-V2 = Dopplerbreit, ganz
